@@ -14,5 +14,5 @@ Aqui podemos ver a o caminho percorrido utilizando a travessia AStar.
 ![alt text](https://github.com/jbtescudeiro16/InteligenciaArtificialTP/blob/main/Screeshots/astar.png?raw=true)
 
 ------------------------------------------------------------------------------------------------------------------------------
-Aqui podemos ver uma corrida, em que o circuito tem dois jogadores, e o jogador um usou uma travessia em profundidadde, enquanto que o jogador dois usou uma travessia A*.
+Aqui podemos ver uma corrida, em que o circuito tem dois jogadores, e o jogador um usou uma travessia em profundidadde, enquanto que o jogador dois usou uma travessia A*. O Jogador Vencedor foi o jogador 2.
 ![alt text](https://github.com/jbtescudeiro16/InteligenciaArtificialTP/blob/main/Screeshots/race.png?raw=true)
